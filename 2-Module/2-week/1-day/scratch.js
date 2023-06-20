@@ -1,8 +1,8 @@
 class Test {
-    testFunc() {
-        console.log("this value: ", this);
-        console.log(`this is equal to test1: ${this === test1}`);
-    }
+  testFunc() {
+    console.log("this value: ", this);
+    console.log(`this is equal to test1: ${this === test1}`);
+  }
 }
 
 const test1 = new Test();
@@ -19,6 +19,6 @@ const test1 = new Test();
 
 // Using this in Function Declaration Syntax
 function someFunc() {
-    console.log(this);
+  console.log(this);
 }
 someFunc(); // Global obj
