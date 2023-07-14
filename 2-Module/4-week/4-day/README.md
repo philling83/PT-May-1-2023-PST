@@ -1,5 +1,11 @@
 # `M2W4D4`
 
+[Lecture Recording](https://us02web.zoom.us/rec/share/JWXJceVSzrS7TCXYfoCNR7yw4GSWITaDiaGJIJNp6V-AZsy53zZdiUD5BIr6qJUB.ipK_IsqtnuH4_-HN)
+<br />
+Passcode: 5w?+J#YY
+
+---
+
 ## Sets
 
 A set is a math term that means a collection of distinct elements. In computer
